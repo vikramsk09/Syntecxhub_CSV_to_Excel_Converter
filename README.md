@@ -32,8 +32,8 @@ The project demonstrates practical usage of Python, pandas, and openpyxl for dat
 5) The cleaned dataset is exported as an Excel file.
 
 - Example Usage
-Run the script and provide the file names when prompted:
-python CSV_to_Excel_Converter.py
+- Run the script and provide the file names when prompted:
+- python CSV_to_Excel_Converter.py
 
 - Example input:
 1) Enter the name of input file: sample.csv
